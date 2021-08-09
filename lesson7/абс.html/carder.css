@@ -1,0 +1,25 @@
+.BLog{
+    font-size: 28px;
+    text-align: center;
+}
+.card{
+    width: 300px;
+    margin-left: 20px;
+    border: 3px solid black;
+    box-shadow: 12px 7px 52px 0px rgba(0,0,0,0.75);
+
+}
+.nn{
+    display: flex;
+    justify-content: center;
+}
+.card_for_margin{
+    margin-left: 20px;
+}
+
+.card_header img{
+    width: 100%;
+}
+.card_body{
+    padding: 10px;
+}

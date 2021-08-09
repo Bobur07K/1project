@@ -1,0 +1,21 @@
+.blog{
+    text-align: center;
+    font-size: 28px;
+}
+.menu{
+    display: inline-block;
+    justify-content: center;
+}
+.card{
+    width: 300px;
+    border: 2px solid gray;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.card_header img{
+    width: 100%;
+}
+.card_body{
+    padding: 10px;
+    text-align: center;
+}

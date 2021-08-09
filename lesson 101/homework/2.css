@@ -1,0 +1,34 @@
+.asosiy{
+    display: flex;
+    background-color: black;
+    color: white;
+    justify-content: space-between;
+    padding: 15px 5px;
+    
+}
+.logo1 div {
+    text-align: left;
+    display: inline-block;
+    margin-left: 10px;
+    margin-bottom: 20px;
+   }
+.logo1 div :hover {
+    background-color: red;
+    color: white;
+}
+.asosiy1{
+    display: flex;
+    background-color: wheat;
+    color: black;
+    justify-content: space-between;
+    padding: 15px 0px;
+    
+}
+.logo4 div {
+    display: inline-block;
+    margin-left: 15px;
+   }
+.logo4 button:hover{
+    background-color: blue;
+    color: white;       
+}

@@ -1,0 +1,16 @@
+.menu{
+    display: flex;
+    background-color: black;
+    color: white;
+    justify-content: space-between;
+    padding: 15px 50px;
+    margin-bottom: 5px;
+}
+.logo3{
+    font-size: 30px;
+}
+
+.d div {
+ display: inline-block;
+ margin-left: 15px;
+}

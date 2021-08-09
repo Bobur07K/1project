@@ -1,0 +1,16 @@
+body{
+    background-color: darkturquoise;
+}
+.vse{
+  justify-content: center;
+    height: 100px;
+    display: flex;
+    display: inline block;
+}
+
+.first{
+    width: 300px;
+    background-color: red;
+    height: 100px;
+    display: flex;
+}

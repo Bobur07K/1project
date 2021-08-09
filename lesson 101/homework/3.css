@@ -1,0 +1,35 @@
+.menu1 {
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    text-align: left;
+    padding: 20px 0;
+    background-image: url('./patrick-tomasso-5hvn-2WW6rY-unsplash.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.f div{
+    text-align: right;
+    display: inline-block;
+    margin-left: 15px;
+}
+.menu {
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    padding: 220px 0;
+    background-image: url('./patrick-tomasso-5hvn-2WW6rY-unsplash.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.menu p {
+    font-size: 20px;
+}
+.menu button {
+    width: 200px;
+    height: 100%;
+    border: 2px solid blue;
+    border-radius: 10px;
+    background-color: blue;
+    color: white;
+}

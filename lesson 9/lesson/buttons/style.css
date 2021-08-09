@@ -1,0 +1,20 @@
+.container {
+    width: 300px;
+    height: 200px;
+    padding: 20px;
+    margin: 30px;
+    background-color: violet;
+}
+
+.btn {
+    background-color: tomato;
+    border: 1px solid orange;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.btn:hover {
+    background-color: white;
+    color: black;
+}

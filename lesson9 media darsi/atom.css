@@ -1,0 +1,19 @@
+at
+{
+width: 300px;
+height: 200px;
+padding: 10px;
+margin: 20px;
+background-color: mediumaquamarine;
+color: violet;
+}
+btn{
+    background-color: lawngreen;
+    color: maroon;
+    border: 1px solid blueviolet;
+    border-radius: 10px;
+}
+.btn:hover{
+    background-color: blue;
+    color: white;
+}

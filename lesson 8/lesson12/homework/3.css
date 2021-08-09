@@ -1,0 +1,19 @@
+.menu{
+border: 2px solid black;
+border-radius: 5px;
+width: 500px;
+height: 300px;
+padding: 20px 30px;
+background-color: black;
+}
+
+
+
+td{
+    color: white;
+    padding: 15px;
+}
+i{
+    font-size: 15px;
+    margin: 5px;
+}

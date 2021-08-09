@@ -1,0 +1,34 @@
+.blog{
+    text-align: center;
+    font-size: 30px;
+    color: mediumblue;
+}
+.paraph{
+text-align: center;
+    color: black;
+    font-size: 20px;
+}
+.menu{
+    display: inline-block;
+
+}
+.card{
+    width: 300px;
+    border: 2px solid mediumblue;
+    margin-left: 25px;
+    border: 2px dashed mediumblue;
+    border-radius: 2px;
+}
+.card_header img{
+    width: 100%;
+}
+.card-body{
+    padding: 10px;
+    text-align: center;
+}
+ h2{
+    color: mediumblue;
+}
+.ser{
+    color: black;
+}

@@ -1,0 +1,58 @@
+body{
+    background-color: black;
+}
+
+.menu{
+    justify-content: center;
+    display: flex;
+    display: inline-block;
+    padding: 200px;
+    padding-right: 2px;
+    
+}
+
+.menu1{
+    padding-top: 200px;
+    justify-content: center;
+    display: flex;
+    display: inline-block;
+    
+}
+.menu2{
+    justify-content: center;
+    display: flex;
+    display: inline-block;
+    
+}
+
+.card2{
+    width: 350px;
+    border: 1px solid gray ;
+    height: 300px;
+    justify-content: center;
+    background-color: black;
+    color: wheat;
+}
+
+.card{
+    width: 300px;
+    border: 1px solid gray ;
+    height: 250px;
+    justify-content: center;
+    background-color: black;
+    color: wheat;
+}
+.card_body i{
+    color: yellow;
+    font-size: 50px;
+}
+
+.card_body button{
+    color: white;
+    background-color: yellow;
+    font-size: 20px;
+    width: 275px;
+}
+.card_body{
+    text-align: center;
+}

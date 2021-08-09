@@ -1,0 +1,20 @@
+
+
+.menu{
+    display: inline-block;
+}
+.card{
+    color: gray;
+    width: 250px;
+    height: 220px;
+border: 2px solid gray;
+margin-left: 50px;
+margin-top: 80px;
+padding: 10px;
+}
+
+
+button{
+    color: mintcream;
+    background-color: mediumblue;
+}

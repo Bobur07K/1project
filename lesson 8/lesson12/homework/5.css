@@ -1,0 +1,19 @@
+table, tr, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: left;
+}
+.first, tr{
+    background-color: rgba(108, 108, 211, 0.774);
+    text-align: left;
+}
+.second, tr{
+    background-color: rgb(204, 224, 236);
+    text-align: left;
+}
+.thirst, tr{
+    background-color: white;
+}
+td{
+    padding: 0px 10px;
+}

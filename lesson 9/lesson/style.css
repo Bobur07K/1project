@@ -1,0 +1,27 @@
+body {
+    background-color: blueviolet;
+}
+
+div {
+    width: 200px;
+    background-color: black;
+    padding: 10px;
+    color: white;
+    height: 200px;
+    display: inline-block;
+}
+
+div p {
+    vertical-align: middle;
+}
+
+@media screen and (max-width: 768px) {
+    body {
+        background-color: brown;
+    }
+    div {
+        text-align: center;
+        background-color: red;
+        display: inline-block;
+    }
+}

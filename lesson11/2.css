@@ -1,0 +1,39 @@
+body{
+    padding: 100px 200px;
+    text-align: center;
+    font-family: 'Lobster', cursive;
+
+}
+
+.menu{
+    justify-content: center;
+    
+    display: inline-block;
+    
+}
+.card{
+    background-color: gray;
+    width: 350px;
+    border: 1px solid gray ;
+    height: 280px;
+    margin: 20px;
+
+    justify-content: center;
+}
+.first {
+    display: flex;
+    justify-content: center;
+}
+.first div{
+    padding: 30%;
+    background-color: rgb(134, 85, 85);
+    padding: 80px 0;
+    margin: 15px;
+    font-size: 35px;
+}
+.card_header img{
+    width: 100%;
+}
+.card_body{
+    text-align: center;
+}

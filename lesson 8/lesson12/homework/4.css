@@ -1,0 +1,27 @@
+body{
+    background-color: blue;
+}
+h2{
+    margin-left: 555px;
+    color: white;
+    font-size: 25px;
+}
+
+table, tr, td{
+    color: black;
+    border-collapse: collapse;
+    text-align: center;
+    background-color: white;
+    margin-left: 80px;
+}
+td{
+    padding: 16px 90px;
+}
+.first, tr{
+    background-color: rgb(33, 25, 85);
+    color: white;
+}
+.second, tr{
+    background-color: rgb(18, 212, 148);
+    color: white;
+}

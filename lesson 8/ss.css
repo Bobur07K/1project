@@ -1,0 +1,19 @@
+.vse{
+    width: 300px;
+   display: inline block;
+   justify-content: center;
+   display: flex;
+}
+.card_border{
+    width: 300px;
+    border: 2px solid black;
+}
+.card_border img{
+    width: 100%;}
+
+    .card_border1{
+        width: 300px;
+        border: 2px solid black;
+    }
+    .card_border img{
+        width: 100%;}

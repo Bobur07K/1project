@@ -1,0 +1,18 @@
+div {
+    width: 270px;
+    background-color: red;
+    color: white;
+    height: 50px;
+    display: inline-block;
+    border: 1px solid black;
+}
+
+@media screen and (max-width: 567px) {
+    div {
+        width: 500px;
+        border: 1px solid black;
+        height: 40px;
+        background-color: red;
+        display: flex;
+    }
+}

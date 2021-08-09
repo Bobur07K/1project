@@ -1,0 +1,73 @@
+.logo {
+    font-size: 25px;
+}
+.section {
+    background-color:  antiquewhite;
+}
+i {
+    font-size: 40px;
+    font-weight: 900;
+    color: rgb(255, 165, 0);
+    text-align: center;
+}
+.kk {background-color: rgb(250, 237, 221);
+}
+.cards {
+border-radius: 15px;
+}
+.txt {
+    font-size: 30px;
+    font-weight: 700;
+}
+.ss {
+    color: rgba(231, 157, 20, 0.911);
+    font-weight: 900;
+}
+.gg {
+    font-size: medium;
+}
+.vse {
+    font-weight: 600;
+}
+.img {
+    border-radius: 10px;
+}
+.accardion {
+   background-color: antiquewhite;
+}
+.team {
+    width: 200px;
+}
+.team1 {
+    height: 200px;
+}
+.alt {
+    font-size: 50px;
+    font-weight: 800;
+}
+
+.oo {
+    width: 90%;
+    padding: 5px;
+}
+.div1 {
+    border-top: 4px solid coral;
+    border-bottom: 4px solid coral;
+}
+.div2 {
+    margin-left: 25px;
+    border-top: 4px solid coral;
+    border-bottom: 4px solid coral;
+}
+.imgg {
+    width: 300px;
+    height: 200px;
+    margin-right: 20px;
+}
+.input {
+    padding: 200px 150px;
+}
+.sps {
+    margin-left: 220px;
+    margin-top: 10px;
+}

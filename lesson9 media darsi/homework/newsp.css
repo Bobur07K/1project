@@ -1,0 +1,33 @@
+.born{
+    display: inline-block;
+    margin: 10px;
+}
+
+
+div{
+    width: 270px;
+    background-color: red;
+    color: white;
+    height: 150px;
+    display: inline-block;
+    border: 1px solid black;
+}
+
+
+
+@media screen and (max-width: 567px) {
+    div {
+        width: 500px;
+        border: 1px solid black;
+        height: 70px;
+        background-color: red;
+        margin-bottom: 5px;
+        margin-top: 0px;
+    }
+}
+.links{
+    width: 500px;
+        border: 1px solid black;
+        height: 70px;
+        background-color: red;
+}

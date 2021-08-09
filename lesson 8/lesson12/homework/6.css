@@ -1,0 +1,11 @@
+table, tr, td{
+    
+    border-collapse: collapse;
+    text-align: center;
+}
+td{
+    padding: 4px;
+}
+.fourth, tr{
+    text-align: left;
+}
